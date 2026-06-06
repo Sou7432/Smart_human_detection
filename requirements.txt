@@ -1,3 +1,4 @@
+gunicorn
 flask
 ultralytics
 opencv-python
